@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 (function($) {
+=======
+function($) {
+>>>>>>> origin/master
 	$.fn.countdown = function(options, callback) {
 
 		//custom 'this' selector
@@ -70,4 +74,8 @@
 		interval = setInterval(countdown_proc, 1000);
 		
 	}
+<<<<<<< HEAD
 }) (jQuery);
+=======
+}) (jQuery);
+>>>>>>> origin/master
