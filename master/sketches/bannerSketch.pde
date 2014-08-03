@@ -1,18 +1,9 @@
-/** 
- * File: bannerSketch.pde
- * ----------------------
- * This program generates an interactive banner for
- * http://akinoshi.github.io/
- *
- * Author: Akinori Kinoshita
- * E-mail: art.akinoshi -at- gmail.com
- * Date: Sat May  4 11:50:42 CST 2013
- */
+
 
 Grid[] grids = new Grid[49*9];
 int[] colorList = {
 // a
-49*3+2, 49*3+3, 49*3+4,
+49*3+20, 49*3+3, 49*3+4,
 49*4+5,
 49*5+2, 49*5+3, 49*5+4, 49*5+5,
 49*6+1, 49*6+5,
